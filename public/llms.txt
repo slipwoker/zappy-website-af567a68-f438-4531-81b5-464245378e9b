@@ -1,0 +1,75 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Discover Dragon5&#39;s curated homeware collection featuring mtb dragon 5 matt mega styles. Elevate every room with premium home goods crafted for modern living. Shop now!
+
+### About
+https://example.com/about
+Dragon5 was built with one mission: bring exceptional homeware to every household. Learn how our passion for quality and design drives every product we stock. Discover our story!
+
+### Contact
+https://example.com/contact
+Have a question about mtb dragon 5 matt mega products or your order? Dragon5&#39;s friendly team is ready to assist you. Reach out today and get fast, helpful support you can count on!
+
+### Products
+https://example.com/products
+Our Products - Dragon5
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Dragon5
+
+### Category
+https://example.com/category/:slug
+Products - Dragon5
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
